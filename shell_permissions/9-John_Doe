@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod u+r+x+w "hello"
-chmod g+r+x "hello"
-chmod o+x+w "hello"
+chmod 754 "hello"
